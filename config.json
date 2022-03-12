@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "update": {
     "version": "1.0",
-    "message": "修复了一些节目频道无法播放的问题"
+    "message": ""
   },
   "live_radios": [
     "64k.mp3"
