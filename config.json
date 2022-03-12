@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.0",
+    "message": "修复了一些节目频道无法播放的问题"
+  },
+  "live_radios": [
+    "64k.mp3"
+  ],
+  "live_radio_src": "var elements = document.getElementsByClassName(\"btn\");elements[0].click();",
+  "search_hint_text": "搜索电台广播",
+  "review": 1
+}
